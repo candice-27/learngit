@@ -1,5 +1,5 @@
 var object={};
 object.name="jack";
 object.say=function(){
-	return this.name+": Hello"
+	return this.name+": 2222Hello"
 }
