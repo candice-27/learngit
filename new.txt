@@ -5,3 +5,4 @@ object.say=function(){
 }
 object.hobby='play football';
 object.aaa='123'
+1
