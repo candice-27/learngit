@@ -4,3 +4,4 @@ object.say=function(){
 	return this.name+": 2222Hello"
 }
 object.hobby='play football';
+object.aaa='123'
