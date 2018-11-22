@@ -6,3 +6,4 @@ object.say=function(){
 object.hobby='play football';
 object.aaa='123'
 1
+2 加上一行
